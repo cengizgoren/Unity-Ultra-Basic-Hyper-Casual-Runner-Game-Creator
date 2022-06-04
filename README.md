@@ -3,6 +3,8 @@
 ## Information
 
 A simple tamplete creation package that will speed up the prototyping process for runner games in the hyper casual genre.
+You can customize the package as you wish. 
+__(This package is a very simple package, it was made for idea purposes only.)__
 
 ### You can create the hierarchy from the "Hierarchy Panel" section.
 ![image](https://user-images.githubusercontent.com/47694762/172023783-0d7fca43-a685-4f75-8885-4f85c9c6f77a.png)
